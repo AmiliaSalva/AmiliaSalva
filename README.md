@@ -1,4 +1,4 @@
-<h1 align="center">Hellow, world! 👋 I'm Amilia</h1>
+<h1 align="center">Hello, world! 👋 I'm Amilia</h1>
 <h3 align="center">A passionate cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
 
 - 💬 Ask me about **Cybersecurity**
