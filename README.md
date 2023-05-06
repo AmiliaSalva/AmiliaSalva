@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Cybersecurity**
 
-- 📫 How to reach me **https://www.linkedin.com/in/amiliasalvatore/**![Uploading Navy White Modern Elegant Business Consultant Banner Landscape(4).png…]()
 
 
 
