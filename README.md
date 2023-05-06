@@ -1,7 +1,7 @@
 <h1 align="center">Hello, world! 👋 I'm Amilia</h1>
 <h3 align="center">A passionate cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
  
-![banner](https://imgur.com/a/T5k3qgo)
+![banner](https://imgur.com/6mbXVX8)
 
 
 
