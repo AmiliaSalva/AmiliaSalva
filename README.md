@@ -13,7 +13,7 @@
 
 
 <h2>👨🏻‍💻 🌎 🔐 Cyber Security / IT Projects 👨🏻‍💻 🌎 🔐</h2>
-<h3></h3>
+
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honey Net in Azure](https://github.com/AmiliaSalva/Azure-Honey-Net-SOC)
 
