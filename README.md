@@ -3,11 +3,13 @@
  
 ![banner](https://i.imgur.com/6mbXVX8.png)
 
-<h2></h2>
+<h2> Relevant Projects:</h2>
 
-- 💬 Ask me about **Cybersecurity**
+<details close>
 
-<h3></h3>
+<div>
+
+</summary>
 
 
 
