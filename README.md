@@ -3,7 +3,7 @@
  
 ![banner](https://i.imgur.com/6mbXVX8.png)
 
-<h2> 👨🏻‍💻 Relevant Projects 👨🏻‍💻 :</h2>
+<h2>  Relevant Projects  :</h2>
 
 <details close>
 
