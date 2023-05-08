@@ -27,6 +27,7 @@
   
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honey Net in Azure](https://github.com/AmiliaSalva/Azure-Honey-Net-SOC)
+  - [Enhancing Security with KQL: Understanding Successful User Logins and Logon Types](https://github.com/AmiliaSalva/KQL-Queries)
 
 
 
