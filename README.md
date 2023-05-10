@@ -26,8 +26,8 @@
  <br />
   
 - ## Azure Honey Net Cloud Project
-  ### [Cloud SOC Project Resources](https://github.com/AmiliaSalva/Cloud-SOC-Project-Resources)
-  - [Creating a Live SOC / Honey Net in Azure](https://github.com/AmiliaSalva/Azure-Honey-Net-SOC)
+  ### [Creating a Live SOC / Honey Net in Azure](https://github.com/AmiliaSalva/Azure-Honey-Net-SOC)
+  - [Cloud SOC Project Resources](https://github.com/AmiliaSalva/Cloud-SOC-Project-Resources)
   - [Enhancing Security with KQL: Understanding Successful User Logins and Logon Types](https://github.com/AmiliaSalva/KQL-Queries)
 
 
