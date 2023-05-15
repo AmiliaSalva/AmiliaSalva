@@ -24,10 +24,14 @@
 <h2>👨🏻‍💻 🌎 🔐 Cyber Security / IT Projects 👨🏻‍💻 🌎 🔐</h2>
  <br />
   
+- ## KQL Simple Query
+   - ### [Enhancing Security with KQL: Understanding Successful User Logins and Logon Types](https://github.com/AmiliaSalva/KQL-Queries)
+  
 - ## Azure Honey Net Cloud Project
   ### [Creating a Live SOC / Honey Net in Azure](https://github.com/AmiliaSalva/Azure-Honey-Net-SOC)
+  - [Setting Up Vulnerable VMs in Azure](https://github.com/AmiliaSalva/Azure-VM-Prep/blob/main/README.md)
   - [Cloud SOC Project Resources](https://github.com/AmiliaSalva/Cloud-SOC-Project-Resources)
-  - [Enhancing Security with KQL: Understanding Successful User Logins and Logon Types](https://github.com/AmiliaSalva/KQL-Queries)
+ 
 
 
 
