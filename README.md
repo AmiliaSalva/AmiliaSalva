@@ -10,7 +10,7 @@
  <br />
  <br />
 
-<h2>  🖥️ Relevant Projects  :</h2>
+<h2>  🖥️ Projects  :</h2>
 
 <details close>
 
