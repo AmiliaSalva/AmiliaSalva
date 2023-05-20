@@ -36,12 +36,27 @@
   - [Setting Up Vulnerable VMs in Azure](https://github.com/AmiliaSalva/Azure-VM-Prep/blob/main/README.md)
   - [Cloud SOC Project Resources](https://github.com/AmiliaSalva/Cloud-SOC-Project-Resources)
 
+  
+  
+ ---
+  
+ <br />
+
+ ## SQL Projects
+ ### [Security Incident Investigation: Failed Login Attempts Analysis Using SQL](https://github.com/AmiliaSalva/Security-Incident-Investigation-After-Hours-Failed-Login-Attempts-Analysis-Using-SQL)
+
+ <br />
+ 
+  
+  
+  
+  
 
  ---
   
  <br />
 
-- ## KQL Simple Queries
+  ## KQL Simple Queries
   ### [Enhancing Security with KQL: Understanding Successful User Logins and Logon Types](https://github.com/AmiliaSalva/KQL-Queries)
  <br />
  
