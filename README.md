@@ -1,12 +1,6 @@
 ![banner](https://i.imgur.com/6mbXVX8.png)
 <h1 align="center">Hello, world! 👋 I'm Amilia</h1>
 <h3 align="center">A passionate cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
-<h2> 📲 connect with me:</h2>
-  
-[<img align="left" alt="Amilia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/amiliasalvatore/
-
  <br />
  <br />
 
@@ -20,11 +14,10 @@
 
 <h2>  🖥️ Projects  :</h2>
 
-<details close>
+
 
 <div>
 
-</summary>
 
 
 
@@ -61,7 +54,11 @@
  <br />
  
  
+<h2> 📲 connect with me:</h2>
+  
+[<img align="left" alt="Amilia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/amiliasalvatore/
 
 
 
