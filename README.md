@@ -36,7 +36,7 @@
  <br />
 
  ## SQL Projects
- ### [Security Incident Investigation: Failed Login Attempts Analysis Using SQL](https://github.com/AmiliaSalva/Security-Incident-Investigation-After-Hours-Failed-Login-Attempts-Analysis-Using-SQL)
+ ### [Security Incident Analysis Using SQL](https://github.com/AmiliaSalva/Security-Incident-Investigation-After-Hours-Failed-Login-Attempts-Analysis-Using-SQL)
 
  <br />
  
