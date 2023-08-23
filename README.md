@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/6mbXVX8.png)
 <h1 align="center">Hello, world! 👋 I'm Amilia</h1>
-<h3 align="center">A passionate cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
+<h3 align="center">A passionate IT & cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
  <br />
 
 #### Thank you for visiting my GitHub! This repository is meant to showcase my cybersecurity journey and the projects I've had the privilege of working on.
